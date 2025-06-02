@@ -1,6 +1,6 @@
 # OOP-Lab-Tasks
 
-This repository contains Object-Oriented Programming (OOP) lab tasks implemented in C++ from FAST NUCES Islamabad (Spring 2023). Each task demonstrates fundamental OOP concepts and techniques.
+This repository contains Object-Oriented Programming (OOP) lab tasks implemented in C++ from FAST NUCES Islamabad (Spring 2023).
 
 ## Introduction
 
